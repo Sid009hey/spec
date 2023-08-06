@@ -17,6 +17,13 @@ body {
   grid-gap: 20px;
 }
 
+.grid1 {
+  margin-top:40px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
 .grid-item {
   font-size: 16px;
   background-color: #121212;
