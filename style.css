@@ -121,6 +121,12 @@ a:hover {
 	margin-right: 30px;
 	margin-bottom: 20px;
   }
+  .grid1 {
+    grid-template-columns: 1fr;
+    gap: 30px;
+	margin-right: 30px;
+	margin-bottom: 20px;
+  }
   /* Center search bar */
   .search-container {
     display: flex;
